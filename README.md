@@ -2,7 +2,7 @@
 
 Página web estática de un catálogo de películas clásicas, hecha con **HTML** y **Bootstrap**.
 
-🔗 **Ver la página en vivo:** https://TU_USUARIO.github.io/cine-clasico/
+**Ver la página en vivo:** https://TU_USUARIO.github.io/cine-clasico/
 
 ![Vista previa de CineClásico.db](imagenes/captura.png)
 
